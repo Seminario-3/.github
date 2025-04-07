@@ -16,7 +16,7 @@
 <br></br>
 | Etapa               | Atividades                                                           |
 |---------------------|----------------------------------------------------------------------|
-| Etapa 1       | <a href='#'>Definição do grupo e tema da aplicação </a>                                    |
+| Etapa 1       | <a href='[#](https://github.com/Seminario-3/.github/tree/main/etapa1)'>Definição do grupo e tema da aplicação </a>                                    |
 | Etapa 2       | <a href='#'>Definição do objetivo, problema, motivação</a> <br> <a href='#'>Elaboração inicial de conteúdos</a>                                |
 | Etapa 3       | <a href='#'>Desenvolvimento das principais funcionalidades da aplicação</a>               |
 | Etapa 4       | <a href='#'>Finalização do desenvolvimento e entrega à comunidade</a>                     |
